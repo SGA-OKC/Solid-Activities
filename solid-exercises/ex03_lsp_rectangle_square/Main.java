@@ -14,6 +14,7 @@ public class Main {
 
         square.setSide(18);
         System.out.println("Area do quadrado nova: " + square.area());
+        
     }
 }
 

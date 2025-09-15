@@ -12,5 +12,6 @@ public class Square {
 
         public int area() {
             return size.getLargura() * size.getAltura();
+        
         }
     }

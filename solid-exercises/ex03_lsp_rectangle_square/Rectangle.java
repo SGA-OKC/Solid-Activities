@@ -16,5 +16,6 @@ public class Rectangle {
 
     public int area() {
         return size.getLargura() * size.getAltura();
+    
     }
 }
